@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "39b37e1059eb4d2f78e2d89b70a35203"
+build_time: [505904473, 83510000]
+inputs:
+  "/Users/appleofuestc/Desktop/mahjong/laboratory/installmahjong/installmahjong/ViewController.swift": [505904414, 0]
+  "/Users/appleofuestc/Desktop/mahjong/laboratory/installmahjong/installmahjong/AppDelegate.swift": [505824190, 0]
